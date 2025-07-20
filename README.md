@@ -77,10 +77,11 @@ The code utilizes:
 ---
 
 ## 📸 Demo Screenshots / Hardware 
-<p float="left">
-  <img src="https://github.com/SHASHI-29/Plant-Irrigation-Water-Sprinkler-Robot/blob/main/images/output1.jpg" width="300"/>
-  <img src="https://github.com/SHASHI-29/Plant-Irrigation-Water-Sprinkler-Robot/blob/main/images/output2.jpg" width="300"/>
+<p align="center">
+  <img src="https://github.com/SHASHI-29/Plant-Irrigation-Water-Sprinkler-Robot/blob/main/images/output1.jpg" alt="Output 1" width="300" style="margin-right: 20px;"/>
+  <img src="https://github.com/SHASHI-29/Plant-Irrigation-Water-Sprinkler-Robot/blob/main/images/output2.jpg" alt="Output 2" width="300"/>
 </p>
+
 
 
 ---
