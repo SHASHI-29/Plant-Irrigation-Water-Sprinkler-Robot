@@ -77,7 +77,7 @@ The code utilizes:
 ---
 
 ## 📸 Demo Screenshots / Hardware 
-![WhatsApp Image 2025-07-20 at 08 42 01_d5fc9560](https://github.com/user-attachments/assets/dd168e22-2403-4c93-8ddf-726376e274f8)
+
 
 
 ---
