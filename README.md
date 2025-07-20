@@ -77,6 +77,8 @@ The code utilizes:
 ---
 
 ## 📸 Demo Screenshots / Hardware 
+<img src="[images/lineman_prototype_front.jpg](https://github.com/SHASHI-29/Plant-Irrigation-Water-Sprinkler-Robot/blob/main/images/output1.jpg)" alt="Prototype Front" width="300"/>
+
 ![Output1](https://github.com/SHASHI-29/Plant-Irrigation-Water-Sprinkler-Robot/blob/main/images/output1.jpg)
 
 ---
