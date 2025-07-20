@@ -77,8 +77,7 @@ The code utilizes:
 ---
 
 ## 📸 Demo Screenshots / Hardware 
-
-
+![Output1](https://github.com/SHASHI-29/Plant-Irrigation-Water-Sprinkler-Robot/blob/main/images/output1.jpg)
 
 ---
 
