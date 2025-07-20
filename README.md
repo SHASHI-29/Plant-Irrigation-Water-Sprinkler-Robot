@@ -76,9 +76,7 @@ The code utilizes:
 
 ---
 
-## 📸 Demo Screenshots / Hardware (Add yours here)
-
-*Coming soon...*
+## 📸 Demo Screenshots / Hardware 
 
 ---
 
@@ -91,9 +89,7 @@ The code utilizes:
 - Hardware: Arduino, sensors, motor driver (L293D), water pump, etc.
 
 ### 🔌 Wiring & Circuit
-Refer to the `/circuit_diagram` directory or images in the repo (to be added).
-
-### 🚀 Uploading
+Refer to the `/circuit_diagram` directory or images in the repo.
 1. Connect your Arduino board.
 2. Install required libraries in Arduino IDE.
 3. Upload the code from `main.ino`.
