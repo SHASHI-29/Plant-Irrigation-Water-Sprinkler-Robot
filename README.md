@@ -1,4 +1,4 @@
-# 🌿 Smart Plant Irrigation & Sprinkler Robot 🤖💧
+# 🌿 Plant Irrigation & Water Sprinkler Robot 🤖💧
 
 A smart agriculture robot built using Arduino to automate irrigation and optimize water usage. The system integrates soil moisture sensors, ultrasonic sensors, IR proximity, and a water pump to intelligently control irrigation in real-time.
 
